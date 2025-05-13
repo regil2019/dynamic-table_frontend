@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ТЗ - React + Express
 
 ## Функционал:
@@ -22,3 +23,6 @@ node index.js
 С уважением 
 Даниел Регил
 Телефон: +79197250946 
+=======
+# dynamic-table_frontend
+>>>>>>> 2d6fa29f3b738be8f3ab9d7ab799b3726a14b7ed
