@@ -1,5 +1,5 @@
 
-# ТЗ - React + Express
+# - React + Express
 
 ## Функционал:
 Backend (Node.js + Express) генерирует 1 миллион чисел и возвращает их с  фильтрацией и пагинацией.
